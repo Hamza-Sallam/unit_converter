@@ -15,4 +15,4 @@ A simple web application that allows users to convert between metric and imperia
 
 ## How to Run
 1. Clone the repository and run index.html
-2. click on this [link]()
+2. click on this [link](https://unittconvert.netlify.app/)
